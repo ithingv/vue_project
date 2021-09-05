@@ -1,11 +1,6 @@
 .DS_Store
 node_modules
 /dist
-package.json
-package-lock.json
-babel.config.js
-vue.config.js
-
 
 # local env files
 .env.local
@@ -26,3 +21,5 @@ pnpm-debug.log*
 *.sln
 *.sw?
 node_modules
+package-lock.json
+package.json
